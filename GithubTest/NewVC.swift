@@ -14,6 +14,9 @@ class NewVC: UIViewController {
 
         print("브랜치에서 새파일 생성~~")
     }
+    func testFunc(){
+        print("gg")
+    }
 
 
 }
